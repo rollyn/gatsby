@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"3d1q":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),l=a("+ZDr"),r=a.n(l);t.default=function(){return o.a.createElement("div",{style:{color:"tomato"}},o.a.createElement("h1",null,"Page 3"),o.a.createElement("p",null,"this is a gatsby site"),o.a.createElement(r.a,{to:"/"},"Home"))}}}]);
-//# sourceMappingURL=component---src-pages-dir-1-page-3-js-38901661c865bbf611de.js.map
